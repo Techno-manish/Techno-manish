@@ -10,15 +10,15 @@ Here are some of the projects I've worked on:
       <a href="https://ccbp-restaurantapp.onrender.com/" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
       <a href="https://github.com/Techno-manish/RestaurantApp" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
-  <li>🔗 <strong>Project Two - Real-time Chat Application</strong><br>
+  <li>🔗 <strong>Project Two</strong><br>
       <a href="#" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
       <a href="#" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
-  <li>🔗 <strong>Project Three - Portfolio Website with React & Tailwind</strong><br>
+  <li>🔗 <strong>Project Three</strong><br>
       <a href="#" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
       <a href="#" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
-  <li>🔗 <strong>Project Four - Blog Platform with Node & Express</strong><br>
+  <li>🔗 <strong>Project Four</strong><br>
       <a href="#" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
       <a href="#" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
