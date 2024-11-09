@@ -1,6 +1,17 @@
 # 💫 About Me:
 🎓 **About Me**  <br>I'm a recent graduate with a passion for full-stack web development. I specialize in building web applications using the MERN stack (MongoDB, Express, React, Node.js). Currently, I’m interning at **Koyal Technologies LLP**, where I’m working on migrating a project from **Vue 2** to **Vue 3**.<br><br>🔭 **What I'm Working On**  <br>- Migrating and upgrading a **Vue.js** project as part of my internship.<br>- Building personal projects with **React** and **Node.js**.<br><br>🛠 **Skills & Technologies**  <br>- **Frontend**: React, Vue.js, Vuetify, Tailwind, HTML, CSS  <br>- **Backend**: Node.js, Express  <br>- **Languages**: JavaScript, Python  <br>- **Tools**: Git, Docker, MongoDB<br> <br>
 
+# 💼 Projects
+
+Here are some of the projects I've worked on:
+
+<ul>
+  <li>🔗 <a href="https://ccbp-restaurantapp.onrender.com/" target="_blank">Project One - Restaurant App</a></li>
+  <li>🔗 <a href="#" target="_blank">Project Two - </a></li>
+  <li>🔗 <a href="#" target="_blank">Project Three - </a></li>
+  <li>🔗 <a href="#" target="_blank">Project Four - s</a></li>
+</ul>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techno-manish) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@manishkumar1238) 
