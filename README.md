@@ -10,9 +10,9 @@ Here are some of the projects I've worked on:
       <a href="https://ccbp-restaurantapp.onrender.com/" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
       <a href="https://github.com/Techno-manish/RestaurantApp" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
-  <li>🔗 <strong>Project Two</strong><br>
-      <a href="#" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
-      <a href="#" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+  <li>🔗 <strong>Project Two - Jobby App </strong><span>(username: rahul | password: rahul@2021)</span><br>
+      <a href="https://jobby-app-eb8m.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
+      <a href="https://github.com/Techno-manish/Jobby-App" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
   <li>🔗 <strong>Project Three</strong><br>
       <a href="#" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
