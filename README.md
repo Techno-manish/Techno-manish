@@ -9,7 +9,7 @@ Here are some of the projects I've worked on:
   <li>🔗 <a href="https://ccbp-restaurantapp.onrender.com/" target="_blank">Project One - Restaurant App</a></li>
   <li>🔗 <a href="#" target="_blank">Project Two - </a></li>
   <li>🔗 <a href="#" target="_blank">Project Three - </a></li>
-  <li>🔗 <a href="#" target="_blank">Project Four - s</a></li>
+  <li>🔗 <a href="#" target="_blank">Project Four - </a></li>
 </ul>
 
 
