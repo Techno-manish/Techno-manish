@@ -19,7 +19,7 @@ Here are some of the projects I've worked on:
       <a href="https://react-covid-dashboard-ryck.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
       <a href="https://github.com/Techno-manish/React-COVID-DASHBOARD" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
-  <li>🔗 <strong>Project Four - Nxt-Trendz</strong><br>
+  <li>🔗 <strong>Project Four - Nxt-Trendz</strong><span>(username: rahul | password: rahul@2021)</span><br>
       <a href="https://manishnxttrndz.ccbp.tech/login" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
       <a href="https://github.com/Techno-manish/Nxt-Trendz---CartFeatures" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
