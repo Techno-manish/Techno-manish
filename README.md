@@ -24,7 +24,7 @@ Here are some of the projects I've worked on:
       <a href="https://github.com/Techno-manish/Nxt-Trendz---CartFeatures" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
   <li>🔗 <strong>Project Five - Recipe-Management-App </strong><br>
-      <a href="https://recipe-management-app-frontend-g0wa.onrender.com/my-recipes" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
+      <a href="https://recipe-management-app-frontend-g0wa.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
       <a href="https://github.com/Techno-manish/Recipe-management-app" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
 </ul>
