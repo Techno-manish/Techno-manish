@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓 **About Me**  <br>I'm a 2024 Computer Science graduate with a passion for full-stack web development. I specialize in building web applications using the MERN stack (MongoDB, Express, React, Node.js). additionally, I have completed a 6 month intership at **Koyal Technologies LLP**, where I worked on migrating a project from **Vue 2** to **Vue 3**.<br><br>🛠 **Skills & Technologies**  <br>- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Vue JS, Vuetify  <br>- **Backend**: Python, Express, Node.js  <br>- **Databases**: SQLite  <br>- **Version Control**: GitHub  <br>- **Project Management Tools**: Asana, Slack, Notion, Azure<br> <br>
+🎓 **About Me**  <br>I'm a Computer Science graduate with a passion for full-stack web development. I specialize in building web applications using the MERN stack (MongoDB, Express, React, Node.js). additionally, I have completed a 6 month intership at **Koyal Technologies LLP**, where I worked on migrating a project from **Vue 2** to **Vue 3**.<br><br>🛠 **Skills & Technologies**  <br>- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Vue JS, Vuetify  <br>- **Backend**: Python, Express, Node.js  <br>- **Databases**: SQLite  <br>- **Version Control**: GitHub  <br>- **Project Management Tools**: Asana, Slack, Notion, Azure<br> <br>
 
 # 💼 Projects
 
