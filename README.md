@@ -23,6 +23,10 @@ Here are some of the projects I've worked on:
       <a href="https://manishnxttrndz.ccbp.tech/login" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
       <a href="https://github.com/Techno-manish/Nxt-Trendz---CartFeatures" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
+  <li>🔗 <strong>Project Five - Apple Watch Studio Clone </strong><br>
+      <a href="https://applwatch-decmk2024.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
+      <a href="https://github.com/Techno-manish/apple-watch-studio" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+  </li>
 </ul>
 
 
