@@ -7,9 +7,9 @@
 Here are some of the projects I've worked on:
 
 <ul>
-  <li>🔗 <strong>Project One - Restaurant App</strong><br>
-      <a href="https://ccbp-restaurantapp.onrender.com/" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
-      <a href="https://github.com/Techno-manish/RestaurantApp" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+  <li>🔗 <strong>Project One - WhatsApp clone</strong><br>
+      <a href="https://whatsappclone-frontend-efyu.onrender.com/" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
+      <a href="https://github.com/Techno-manish/whatsappClone-frontend" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </li>
   <li>🔗 <strong>Project Two - Jobby App </strong><span>(username: rahul | password: rahul@2021)</span><br>
       <a href="https://jobby-app-eb8m.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
