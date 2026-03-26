@@ -1,56 +1,109 @@
-# 💫 About Me:
+<div align="center">
 
-🎓 **About Me**  <br>I'm a Computer Science graduate with a passion for full-stack web development. I specialize in building web applications using the MERN stack (MongoDB, Express, React, Node.js). additionally, I have completed a 6 month intership at **Koyal Technologies LLP**, where I worked on migrating a project from **Vue 2** to **Vue 3**.<br><br>🛠 **Skills & Technologies**  <br>- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Vue JS, Vuetify  <br>- **Backend**: Python, Express, Node.js  <br>- **Databases**: SQLite  <br>- **Version Control**: GitHub  <br>- **Project Management Tools**: Asana, Slack, Notion, Azure<br> <br>
+# Manish Kumar
 
-# 💼 Projects
+**Software Developer — Vue.js · Node.js · System Design**
 
-Here are some of the projects I've worked on:
+*Crafting scalable, production-grade applications with clean architecture.*
 
-<ul>
-  <li>🔗 <strong>Project One - WhatsApp clone</strong><br>
-      <a href="https://whatsappclone-frontend-efyu.onrender.com/" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
-      <a href="https://github.com/Techno-manish/whatsappClone-frontend" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
-  </li>
-  <li>🔗 <strong>Project Two - Jobby App </strong><span>(username: rahul | password: rahul@2021)</span><br>
-      <a href="https://jobby-app-eb8m.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
-      <a href="https://github.com/Techno-manish/Jobby-App" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
-  </li>
-  <li>🔗 <strong>Project Three - COVID Dashboard</strong><br>
-      <a href="https://react-covid-dashboard-ryck.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
-      <a href="https://github.com/Techno-manish/React-COVID-DASHBOARD" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
-  </li>
-  <li>🔗 <strong>Project Four - Nxt-Trendz </strong><span>(username: rahul | password: rahul@2021)</span><br>
-      <a href="https://manishnxttrndz.ccbp.tech/login" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
-      <a href="https://github.com/Techno-manish/Nxt-Trendz---CartFeatures" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
-  </li>
-  <li>🔗 <strong>Project Five - Apple Watch Studio Clone </strong><br>
-      <a href="https://applwatch-decmk2024.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> | 
-      <a href="https://github.com/Techno-manish/apple-watch-studio" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
-  </li>
-</ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/techno-manish)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/@manishkumar1238)
+[![GitHub](https://img.shields.io/badge/GitHub-Techno--manish-181717?style=flat-square&logo=github)](https://github.com/Techno-manish)
+[![Email](https://img.shields.io/badge/Email-manishku02012002%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manishku02012002@gmail.com)
 
+📍 New Delhi, India &nbsp;|&nbsp; 💼 Open to Opportunities
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techno-manish) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@manishkumar1238) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Techno-manish&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Techno-manish&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-manish&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Techno-manish&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Techno-manish&limit=5&theme=radical&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Techno-manish&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+Software Developer with ~1.5 years of experience building production-grade web applications. I specialize in **Vue.js 3** on the frontend and **Node.js / Express** on the backend, with a strong focus on system-driven features — particularly **Role-Based Access Control (RBAC)**, automation workflows, and data-driven dashboards.
+
+Currently building government-use web portals at **Atlanta System**, where I architect multi-role dashboards, implement route-guarded navigation, and manage complex state with Pinia.
+
+---
+
+## Core Focus Areas
+
+```
+Vue.js 3 & Frontend Architecture    →  Feature-based structure · Pinia state · Vue Router guards
+Node.js & REST API Design           →  JWT Auth · PostgreSQL · RESTful endpoints · performance tuning
+RBAC & System Design                →  Permission-based rendering · multi-role dashboards · audit workflows
+```
+
+---
+
+## Experience
+
+**Software Developer** — Atlanta System, New Delhi &nbsp;`Sep 2025 – Present`
+> Building a government-use web portal with complex RBAC architecture. Developing multi-role dashboards, lifecycle tracking, inventory management, and contributing to an Intelligent Vehicle Monitoring & Bus Management system.
+
+**Backend Development Intern** — Altrodav (MeetMux), Remote &nbsp;`Apr 2025 – Sep 2025`
+> Built Node.js backend systems serving 500+ users. Optimized PostgreSQL queries for a 25% speed improvement. Implemented RESTful APIs with JWT authentication and built a role-based admin panel in React.js.
+
+**Full-Stack Development Intern** — Koyal Technologies LLP, Remote &nbsp;`Jun 2024 – Dec 2024`
+> Led migration from Vue 2 to Vue 3 (Composition API), achieving a 40% performance improvement. Resolved 50+ migration issues and refactored legacy code into reusable, modular components.
+
+---
+
+## Tech Stack
+
+**Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js%203-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Pinia](https://img.shields.io/badge/Pinia-FFD700?style=flat-square&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+
+**Backend & Database**
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+
+**Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
+
+---
+
+## Projects
+
+| Project | Description | Stack | Links |
+|--------|-------------|-------|-------|
+| 💬 **WhatsApp Clone** | Real-time messaging web app | MERN | [Demo](https://whatsappclone-frontend-efyu.onrender.com/) · [Repo](https://github.com/Techno-manish/whatsappClone-frontend) |
+| 💼 **Jobby App** | Job listing platform with auth | React, REST API | [Demo](https://jobby-app-eb8m.onrender.com) · [Repo](https://github.com/Techno-manish/Jobby-App) |
+| 🦠 **COVID Dashboard** | Live stats & data visualization | React, Charts | [Demo](https://react-covid-dashboard-ryck.onrender.com) · [Repo](https://github.com/Techno-manish/React-COVID-DASHBOARD) |
+| 🛒 **Nxt-Trendz** | E-commerce app with cart | React | [Demo](https://manishnxttrndz.ccbp.tech/login) · [Repo](https://github.com/Techno-manish/Nxt-Trendz---CartFeatures) |
+| ⌚ **Apple Watch Studio Clone** | Interactive product configurator | Vanilla JS, CSS | [Demo](https://applwatch-decmk2024.netlify.app/) · [Repo](https://github.com/Techno-manish/apple-watch-studio) |
+
+> 🔑 Jobby App & Nxt-Trendz — `username: rahul` / `password: rahul@2021`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Techno-manish&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+&nbsp;
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Techno-manish&theme=radical&hide_border=true)
+
+
+</div>
+
+---
+
+<div align="center">
+
+*"Clean architecture is not a luxury — it's the foundation of every system that lasts."*
+
+</div>
