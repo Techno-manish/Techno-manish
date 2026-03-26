@@ -181,7 +181,7 @@ const manish: Developer = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Techno-manish&theme=tokyonight&no-frame=true&margin-w=8&column=7&no-bg=true" />
+
 
 </div>
 
@@ -195,16 +195,6 @@ const manish: Developer = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-6366f1?style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
----
-
-## `< top_contributions />`
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Techno-manish&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 </div>
 
